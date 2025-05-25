@@ -8,7 +8,7 @@ public class MyWebApi {
 
     @GetMapping
     public String hello() {
-        return "Hello, This Wesite Published by Ashok Kumar!";
+        return "Hello, This is Ashok!";
     }
 
 }
